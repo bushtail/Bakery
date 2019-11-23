@@ -3,4 +3,4 @@ name: Bakery
 api-version: 1.14
 version: 1.0
 author: Evan Nosich (ComradeBushtail)
-description: A plugin that allows players to smelt wheat in a furnace and smoker to create bread.
+description: A plugin that allows players to smelt wheat in a furnace and smelter to create bread.
